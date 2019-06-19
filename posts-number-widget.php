@@ -5,7 +5,7 @@ Plugin URI: https://sysbird.jp/wptips/posts-number-widget
 Description: The widget display number of posts.
 Version: 1.1
 Author: Sysbird
-Author URI: https://sysbird.jp/wptips
+Author URI: https://profiles.wordpress.org/sysbird/
 License: GPLv2 or later
 Text Domain: posts-number-widget
 */
@@ -13,7 +13,6 @@ Text Domain: posts-number-widget
 class Posts_Number_Widget extends WP_Widget {
 
 	function __construct() {
-		$ret = load_plugin_textdomain( 'posts-number-widget', false, plugin_basename( dirname( __FILE__ )) . '/languages' );
 		$widget_ops = array('description' => __('The Widget display number of posts.', 'posts-number-widget' ));
 		parent::__construct(
 			false,
