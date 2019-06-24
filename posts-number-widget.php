@@ -4,7 +4,7 @@ Plugin Name:Posts Number Widget
 Plugin URI: https://sysbird.jp/wptips/posts-number-widget
 Description: The widget display number of posts.
 Version: 1.1
-Author: Sysbird
+Author: sysbird
 Author URI: https://profiles.wordpress.org/sysbird/
 License: GPLv2 or later
 Text Domain: posts-number-widget

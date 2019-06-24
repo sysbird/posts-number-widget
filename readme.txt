@@ -1,6 +1,6 @@
 === Posts Number Widget ===
-Contributors: Sysbird
-Plugin URI: https://sysbird.jp/wptips/posts-number-widget
+Contributors: sysbird
+Plugin URI: https://wordpress.org/plugins/posts-number-widget
 Tags: widget
 Requires at least: 3.0
 Tested up to: 5.2.1
@@ -14,12 +14,18 @@ The widget display number of posts.
 == Description ==
 "Posts Number Widget" the plugin display number of posts on widget.
 
+* [GitHub](https://github.com/sysbird/posts-number-widget)
+* [Description in Japanese](https://sysbird.jp/wptips/posts-number-widget/)
+
+
+= Usage =
+1. Add the "Posts Number Widget" for your widget area.
+2. You can change the title and posts unit at settings.
+
 
 == Installation ==
-1. Upload the "Posts Number Widget" folder to the plugins directory in your WordPress installation.
-2. Go to plugins list and activate "Posts Number Widget". 
-3. Add the "Posts Number Widget" for your widget area.
-4. You can change the title and posts unit at settings.
+1. Upload the entire "Posts Number Widget" folder to the /wp-content/plugins/ directory.
+2. Activate the plugin through the ‘Plugins’ menu in WordPress.
 
 
 == Screenshots ==
@@ -27,12 +33,6 @@ The widget display number of posts.
 2. Display Widget at sidebar.
 3. Posts Number Widget management page on Widget (for Japanese).
 4. Display Widget at sidebar (for Japanese).
-
-
-== Author ==
-The plugin built by TORIYAMA Yuko at sysbird.
-TORIYAMA Yuko at [sysbird](https://profiles.wordpress.org/sysbird)
-You can contact me at [inquiry form](https://sysbird.jp/wptips/contact/).
 
 
 == Changelog ==
